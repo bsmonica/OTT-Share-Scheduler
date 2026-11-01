@@ -1,11 +1,5 @@
 # OTT Share Scheduler System
 
-**Team Members:**
-- **B.S. Monica**
-- **K. Sashwathi Sri**
-
----
-
 ## 1. Project Overview
 
 The **OTT Share Scheduler System** is a full-stack college project designed to manage shared OTT platform subscriptions (such as Netflix, Amazon Prime Video, Disney+ Hotstar, etc.) among student groups (e.g. hostel roommates, college clubs).
